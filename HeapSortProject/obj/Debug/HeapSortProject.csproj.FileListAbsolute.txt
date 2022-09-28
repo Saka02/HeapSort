@@ -1,0 +1,16 @@
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\bin\Debug\HeapSortProject.exe.config
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\bin\Debug\HeapSortProject.exe
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\bin\Debug\HeapSortProject.pdb
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject.csproj.AssemblyReference.cache
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\MainWindow.g.cs
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\App.g.cs
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject_MarkupCompile.cache
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject_MarkupCompile.lref
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\MainWindow.baml
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject.g.resources
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject.Properties.Resources.resources
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject.csproj.GenerateResource.cache
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject.csproj.CoreCompileInputs.cache
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject.exe
+C:\Users\Samir123\source\repos\HeapSortProject\HeapSortProject\obj\Debug\HeapSortProject.pdb

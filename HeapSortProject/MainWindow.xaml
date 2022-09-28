@@ -1,0 +1,24 @@
+﻿<Window x:Class="HeapSortProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HeapSortProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Button Click="AddClick" Content="Add" Width="100" HorizontalAlignment="Left"/>
+            <Button Click="RemoveClick" Content="Remove" Width="100" HorizontalAlignment="Left"/>
+            <Button Click="ClearClick" Content="Clear" Width="100" HorizontalAlignment="Left"/>
+            <TextBox x:Name="MainIn" Width="200" HorizontalAlignment="Right" />
+        </DockPanel>
+        <DockPanel Grid.Row="1" Height="100" x:Name="PanelS" >
+            
+        </DockPanel>
+    </Grid>
+</Window>
